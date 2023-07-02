@@ -1,0 +1,22 @@
+include "%S/en_US.UTF-8/Compose"
+<dead_acute> <C> : "Ç"
+<dead_acute> <c> : "ç"
+
+<dead_diaeresis> <A> : "Ã"
+<dead_diaeresis> <a> : "ã"
+
+<dead_diaeresis> <N> : "Ñ"
+<dead_diaeresis> <n> : "ñ"
+
+<dead_diaeresis> <O> : "Õ"
+<dead_diaeresis> <o> : "õ"
+
+<apostrophe> : "à"
+<quotedbl> : "À"
+
+<guillemotleft> : "ª"
+<guillemotright> : "º"
+
+
+<copyright> : "ç"
+<cent> : "Ç"
