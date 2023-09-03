@@ -1,6 +1,5 @@
 ! Swap Accents
-keycode 51 = dead_acute dead_diaeresis
-keycode 15 = 6 dead_grave
+keycode 51 = dead_acute dead_diaeresis dead_acute dead_diaeresis dead_grave
 
 ! Swap Brackets
 keycode 34 = bracketleft braceleft
