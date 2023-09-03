@@ -1,0 +1,15 @@
+! Swap Accents
+keycode 51 = dead_acute dead_diaeresis
+keycode 15 = 6 dead_grave
+
+! Swap Brackets
+keycode 34 = bracketleft braceleft
+keycode 35 = bracketright braceright
+
+! Add Spanish UpSideDown Accents
+keycode 97 = slash question slash question questiondown
+keycode 10 = 1 exclam 1 exclam exclamdown
+
+! Alt keys Ç and Ñ
+keycode 54 = c C c C ccedilla Ccedilla
+keycode 57 = n N n N ntilde Ntilde
